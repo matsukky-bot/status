@@ -4,19 +4,19 @@
     "url": "https://www.matsukky.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.matsukky.com.ico",
     "slug": "matsukky-main-site",
-    "status": "down",
-    "uptime": "99.97%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
-    "time": 759,
-    "timeDay": 759,
-    "timeWeek": 759,
-    "timeMonth": 759,
-    "timeYear": 759,
+    "status": "up",
+    "uptime": "97.92%",
+    "uptimeDay": "97.92%",
+    "uptimeWeek": "97.92%",
+    "uptimeMonth": "97.92%",
+    "uptimeYear": "97.92%",
+    "time": 1342,
+    "timeDay": 1342,
+    "timeWeek": 1342,
+    "timeMonth": 1342,
+    "timeYear": 1342,
     "dailyMinutesDown": {
-      "2024-05-25": 0
+      "2024-05-25": 14
     }
   },
   {
@@ -25,18 +25,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/kuma.matsukky.com.ico",
     "slug": "uptime-kuma",
     "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
+    "uptime": "97.90%",
+    "uptimeDay": "97.90%",
+    "uptimeWeek": "97.90%",
+    "uptimeMonth": "97.90%",
+    "uptimeYear": "97.90%",
     "time": 486,
     "timeDay": 486,
     "timeWeek": 486,
     "timeMonth": 486,
     "timeYear": 486,
     "dailyMinutesDown": {
-      "2024-05-25": 0
+      "2024-05-25": 14
     }
   },
   {
@@ -45,18 +45,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/git.matsukky.com.ico",
     "slug": "git-lab",
     "status": "down",
-    "uptime": "26.04%",
-    "uptimeDay": "26.04%",
-    "uptimeWeek": "26.04%",
-    "uptimeMonth": "26.04%",
-    "uptimeYear": "26.04%",
+    "uptime": "25.50%",
+    "uptimeDay": "25.50%",
+    "uptimeWeek": "25.50%",
+    "uptimeMonth": "25.50%",
+    "uptimeYear": "25.50%",
     "time": 1367,
     "timeDay": 1367,
     "timeWeek": 1367,
     "timeMonth": 1367,
     "timeYear": 1367,
     "dailyMinutesDown": {
-      "2024-05-25": 489
+      "2024-05-25": 503
     }
   },
   {
@@ -65,18 +65,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/forgejo.matsukky.com.ico",
     "slug": "forgejo",
     "status": "down",
-    "uptime": "25.97%",
-    "uptimeDay": "25.97%",
-    "uptimeWeek": "25.97%",
-    "uptimeMonth": "25.97%",
-    "uptimeYear": "25.97%",
+    "uptime": "25.43%",
+    "uptimeDay": "25.43%",
+    "uptimeWeek": "25.43%",
+    "uptimeMonth": "25.43%",
+    "uptimeYear": "25.43%",
     "time": 858,
     "timeDay": 858,
     "timeWeek": 858,
     "timeMonth": 858,
     "timeYear": 858,
     "dailyMinutesDown": {
-      "2024-05-25": 489
+      "2024-05-25": 503
     }
   }
 ]
