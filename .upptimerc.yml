@@ -7,7 +7,11 @@ sites:
     url: https://www.matsukky.com
   - name: Uptime Kuma
     url: https://kuma.matsukky.com
-  
+  - name: GitLab
+    url: https://git.matsukky.com
+  - name: Forgejo
+    url: https://forgejo.matsukky.com
+
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
