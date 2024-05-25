@@ -21,7 +21,7 @@ status-website:
   logoUrl: https://www.gravatar.com/avatar/5aa6ba1d40981bc313f03e1ded12d3ec?s=150
   name: Upptime
   introTitle: "**Upptime** Matsukky"
-  introMessage: More info in my (Uptime Kuma instance)[https://kuma.matsukky.com/status/main].
+  introMessage: More info in my [Uptime Kuma instance](https://kuma.matsukky.com/status/main).
   navbar:
     - title: Status
       href: /
