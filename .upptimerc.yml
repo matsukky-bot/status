@@ -1,5 +1,5 @@
 # Change these first
-owner: matsukky # Your GitHub organization or username, where this repository lives
+owner: matsukky-bot # Your GitHub organization or username, where this repository lives
 repo: status # The name of this repository
 
 sites:
@@ -27,8 +27,6 @@ status-website:
       href: /
     - title: Uptime Kuma (More info)
       href: https://kuma.matsukky.com/status/main
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
