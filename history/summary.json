@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1113,
-    "timeDay": 1113,
-    "timeWeek": 1113,
-    "timeMonth": 1113,
-    "timeYear": 1113,
+    "time": 943,
+    "timeDay": 943,
+    "timeWeek": 943,
+    "timeMonth": 943,
+    "timeYear": 943,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 563,
-    "timeDay": 563,
-    "timeWeek": 563,
-    "timeMonth": 563,
-    "timeYear": 563,
+    "time": 465,
+    "timeDay": 465,
+    "timeWeek": 465,
+    "timeMonth": 465,
+    "timeYear": 465,
     "dailyMinutesDown": {}
   },
   {
@@ -40,19 +40,19 @@
     "url": "https://git.matsukky.com",
     "icon": "https://icons.duckduckgo.com/ip3/git.matsukky.com.ico",
     "slug": "git-lab",
-    "status": "down",
-    "uptime": "72.43%",
-    "uptimeDay": "72.43%",
-    "uptimeWeek": "72.43%",
-    "uptimeMonth": "72.43%",
-    "uptimeYear": "72.43%",
-    "time": 4634,
-    "timeDay": 4634,
-    "timeWeek": 4634,
-    "timeMonth": 4634,
-    "timeYear": 4634,
+    "status": "up",
+    "uptime": "0.15%",
+    "uptimeDay": "0.15%",
+    "uptimeWeek": "0.15%",
+    "uptimeMonth": "0.15%",
+    "uptimeYear": "0.15%",
+    "time": 2653,
+    "timeDay": 2653,
+    "timeWeek": 2653,
+    "timeMonth": 2653,
+    "timeYear": 2653,
     "dailyMinutesDown": {
-      "2024-05-25": 0
+      "2024-05-25": 489
     }
   },
   {
@@ -60,19 +60,19 @@
     "url": "https://forgejo.matsukky.com",
     "icon": "https://icons.duckduckgo.com/ip3/forgejo.matsukky.com.ico",
     "slug": "forgejo",
-    "status": "down",
-    "uptime": "4.58%",
-    "uptimeDay": "4.58%",
-    "uptimeWeek": "4.58%",
-    "uptimeMonth": "4.58%",
-    "uptimeYear": "4.58%",
-    "time": 561,
-    "timeDay": 561,
-    "timeWeek": 561,
-    "timeMonth": 561,
-    "timeYear": 561,
+    "status": "up",
+    "uptime": "0.01%",
+    "uptimeDay": "0.01%",
+    "uptimeWeek": "0.01%",
+    "uptimeMonth": "0.01%",
+    "uptimeYear": "0.01%",
+    "time": 512,
+    "timeDay": 512,
+    "timeWeek": 512,
+    "timeMonth": 512,
+    "timeYear": 512,
     "dailyMinutesDown": {
-      "2024-05-25": 0
+      "2024-05-25": 489
     }
   }
 ]
